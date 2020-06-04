@@ -1,0 +1,3 @@
+﻿  Dijkstra_Moore.cpp
+c:\users\dell\desktop\dijkstra_using_matrix\dijkstra_moore\dijkstra_moore\dijkstra_moore.cpp(168): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Dijkstra_Moore.vcxproj -> C:\Users\DELL\Desktop\Dijkstra_Using_Matrix\Dijkstra_Moore\Debug\Dijkstra_Moore.exe
